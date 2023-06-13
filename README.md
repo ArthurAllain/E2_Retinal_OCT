@@ -16,15 +16,21 @@ Vous avez comme mission d'améliorer le modèle (en modifiant ses paramètres ou
 
 # Data:
 
-Le jeu de données : https://data.mendeley.com/datasets/rscbjbr9sj/2
+Le jeu de données utilisé pour ce projet est disponible : https://www.kaggle.com/datasets/paultimothymooney/kermany2018.
 
 # Models
 
-Le model initial utilise architecture VGG16 CNN est utilisée pour la classification, pré-entraînée sur le jeu de données 'ImageNet'. 
-Le code complet est disponible ici : https://colab.research.google.com/drive/1UzymPZ7DOG9JO2nOEA4IndMaed1kzQyK?usp=sharing ou dans le fichier "retinal_oct_classification.ipynb" situé à la racine du projet
+## Modèle initial
 
-Le model utilisé pour la prédiction est basé sur le model initial avec plusieurs changement permetant une amélioration des métriques d'évaluation.
-Le code utilisé ce situe, à la racine du projet, dans le fichier "retinal_oct_v2.ipynb"
+Le code complet permettant de générer le modèle est disponible via ce lien : https://colab.research.google.com/drive/1UzymPZ7DOG9JO2nOEA4IndMaed1kzQyK?usp=sharing.
+ou dans le fichier "retinal_oct_classification.ipynb" situé à la racine du projet.
+
+## Modèle amélioré
+
+Ce modèle est basé sur le modèle initial. J'ai effectué plusieurs modification permettant une amélioration des métriques d'évaluation.
+Le code utilisé ce situe, à la racine du projet, dans le fichier "retinal_oct_v2.ipynb".
+Le model déjà entrainé doit être téléchargé via ce lien : https://drive.google.com/file/d/1p1eWodsnvJIaij2e9uChDKBaqsP77g9e/view?usp=drive_link.
+Une fois le téléchargement effectué le ".h5" doit être placé dans le dossier "./model/v2"
 
 # Remerciements
 
