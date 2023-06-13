@@ -23,7 +23,7 @@ Le jeu de données utilisé pour ce projet est disponible : https://www.kaggle.c
   ### Modèle initial
 
 Le code complet permettant de générer le modèle est disponible via ce lien : https://colab.research.google.com/drive/1UzymPZ7DOG9JO2nOEA4IndMaed1kzQyK?usp=sharing.
-ou dans le fichier "retinal_oct_classification.ipynb" situé à la racine du projet.
+Il peut aussi être touvé dans le fichier "retinal_oct_classification.ipynb" situé à la racine du projet.
 
   ### Modèle amélioré
 
