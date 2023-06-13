@@ -20,12 +20,12 @@ Le jeu de données utilisé pour ce projet est disponible : https://www.kaggle.c
 
 # Models
 
-## Modèle initial
+  ## Modèle initial
 
 Le code complet permettant de générer le modèle est disponible via ce lien : https://colab.research.google.com/drive/1UzymPZ7DOG9JO2nOEA4IndMaed1kzQyK?usp=sharing.
 ou dans le fichier "retinal_oct_classification.ipynb" situé à la racine du projet.
 
-## Modèle amélioré
+  ## Modèle amélioré
 
 Ce modèle est basé sur le modèle initial. J'ai effectué plusieurs modification permettant une amélioration des métriques d'évaluation.
 Le code utilisé ce situe, à la racine du projet, dans le fichier "retinal_oct_v2.ipynb".
