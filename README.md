@@ -4,7 +4,7 @@ Vous venez de rejoindre une start-up MedTech en tant que développeur.se IA.
 
 L'entreprise a remporté un appel d'offre du CHRU de Nancy pour la réalisation d'un POC (Proof Of Concept) d'une solution IA capable de diagnostiquer les maladies de la rétines à partir d'imagerie par OCT.
 
-​L’imagerie par OCT permet de détecter soit un épaississement de la rétine, soit la présence d’anomalie dans ou sous la rétine (œdème, néovaisseaux, atrophie, membrane, etc.) Cet examen permet d’analyser les conséquences de pathologies rétiniennes comme la dégénérescence maculaire liée à l’âge, la rétinopathie diabétique, les occlusions vasculaires, etc.
+L’imagerie par OCT permet de détecter soit un épaississement de la rétine, soit la présence d’anomalie dans ou sous la rétine (œdème, néovaisseaux, atrophie, membrane, etc.) Cet examen permet d’analyser les conséquences de pathologies rétiniennes comme la dégénérescence maculaire liée à l’âge, la rétinopathie diabétique, les occlusions vasculaires, etc.
 
 Une première version a été développée par un doctorant de l'INRIA. Il s'agit d'une API qui permet de prédire à partir d'une imagerie par OCT :
 
